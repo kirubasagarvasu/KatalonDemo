@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Non-existing email, please try again</name>
+   <tag></tag>
+   <elementGuidId>b9f618f1-f1f2-4911-861d-927fc4454f9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login-messages']/table/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e65831e2-d82f-4fca-8507-ea60b9007460</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>	Non-existing email, please try again. </value>
+      <webElementGuid>902b91dd-8588-405a-bab4-73e45bf0ed6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login-messages&quot;)/table[1]/tbody[1]/tr[@class=&quot;message-error&quot;]/td[1]</value>
+      <webElementGuid>e1de738c-c230-46bc-a772-e17a2a1dd059</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login-messages']/table/tbody/tr/td</value>
+      <webElementGuid>c0f9a956-ac29-4e75-8fda-f4f3f2df6a2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a Service or login'])[1]/following::td[1]</value>
+      <webElementGuid>d8a5fc49-16ab-42d8-86f9-d659afca73e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email:'])[1]/preceding::td[1]</value>
+      <webElementGuid>b51be6f3-323f-49af-ac99-b4d4985b1c3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password:'])[1]/preceding::td[1]</value>
+      <webElementGuid>1a096dad-551f-449a-8765-4d0cd85be5e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Non-existing email, please try again.']/parent::*</value>
+      <webElementGuid>60187513-94dc-4ea1-80ba-d5248b22ca68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>44e5d654-36af-456d-a2a7-fd0edac95aad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '	Non-existing email, please try again. ' or . = '	Non-existing email, please try again. ')]</value>
+      <webElementGuid>84d9e955-2f80-4e85-ae0a-b56a020834e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
