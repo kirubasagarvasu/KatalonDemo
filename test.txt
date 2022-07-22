@@ -1,2 +1,2 @@
-Please work cmon
-Common gp
+$ python Warrior Warriorspace/Testcases/Demo_Cases/Demo_Test_Of_Inventory_
+Management_System.xml
