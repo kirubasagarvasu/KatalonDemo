@@ -1,2 +1,12 @@
 $ python Warrior Warriorspace/Testcases/Demo_Cases/Demo_Test_Of_Inventory_
 Management_System.xml
+
+
+$ wget https://ftp.mozilla.org/pub/mozilla.org/firefox/releases/45.0.2/linux-x86_64/en-US/firefox-45.0.2.tar.bz2
+$ tar -xjvf firefox*.tar.bz2
+$ sudo rm -rf /opt/firefox*
+$ sudo mv firefox /opt/firefox
+$ sudo ln -sf /opt/firefox/firefox /usr/bin/firefox
+
+to uninstall firefox
+$ sudo rm -r /opt/firefox/firefox /usr/bin/firefox
